@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Spotify Test",
+  "version": "1.0",
+  "permissions": ["storage"],
+  "host_permissions": ["https://open.spotify.com/*"],
+  "content_scripts": [
+    {
+      "matches": ["https://open.spotify.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+/* Clothes Page Specific Styles */
+body {
+    background-color: #eaf7f7; /* Light blue for freshness */
+}
+
+.category-header {
+    background-color: #a3dbe8; /* Bright and clean header */
+    color: #333;
+    padding: 2rem;
+}
+
+.products-grid .product-item {
+    border: 2px solid #73c3d1; /* Border matches the clothes theme */
+    background-color: #ffffff;
+}
+
+.product-item button {
+    background-color: #73c3d1; /* Button matches header */
+}
+
+.product-item button:hover {
+    background-color: #5da6b4; /* Slightly darker for hover */
+}

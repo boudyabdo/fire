@@ -1,0 +1,23 @@
+/* Footwear Page Specific Styles */
+body {
+    background-color: #f5f6fa; /* Neutral gray-blue background for elegance */
+}
+
+.category-header {
+    background-color: #b8c6db; /* Soft gradient for header background */
+    color: #333;
+    padding: 2rem;
+}
+
+.products-grid .product-item {
+    border: 2px solid #8a9bb4; /* Border matches footwear theme */
+    background-color: #edf2f7;
+}
+
+.product-item button {
+    background-color: #8a9bb4; /* Button theme matches header */
+}
+
+.product-item button:hover {
+    background-color: #6e829c; /* Slightly darker for hover */
+}

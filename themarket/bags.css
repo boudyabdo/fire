@@ -1,0 +1,23 @@
+/* Bags Page Specific Styles */
+body {
+    background-color: #fef6e4; /* Light beige background for a cozy feel */
+}
+
+.category-header {
+    background-color: #f9e0b8; /* Soft tan for header background */
+    color: #333;
+    padding: 2rem;
+}
+
+.products-grid .product-item {
+    border: 2px solid #f1c38e; /* Border matches the bag theme */
+    background-color: #fff8ed;
+}
+
+.product-item button {
+    background-color: #f1c38e; /* Button theme matches header */
+}
+
+.product-item button:hover {
+    background-color: #d6a36d; /* Slightly darker for hover */
+}
